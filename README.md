@@ -1,7 +1,7 @@
 # 3-flexProject
 
 
-![view](https://user-images.githubusercontent.com/120960956/211674543-3d9671d6-fa7a-4617-a26e-afd135f9e4e9.mp4)
+[view](https://user-images.githubusercontent.com/120960956/211674543-3d9671d6-fa7a-4617-a26e-afd135f9e4e9.mp4)
 
 - [Demo Project](https://mahsabbpour.github.io/3-flexProject/)
 
